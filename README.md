@@ -1,4 +1,4 @@
-[![tfkhdyt's header](./images/readmebox_tfkhdyt.svg)](https://tfkhdyt.my.id/)
+[![tfhdyt's header](./images/readmebox_tfkhdyt.svg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a rel="me" href="https://mstdn.id/@tfkhdyt">
